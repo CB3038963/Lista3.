@@ -1,0 +1,7 @@
+C:\Users\Juca\source\repos\Lista3Ex8\Lista3Ex8\bin\Debug\Lista3Ex8.exe.config
+C:\Users\Juca\source\repos\Lista3Ex8\Lista3Ex8\bin\Debug\Lista3Ex8.exe
+C:\Users\Juca\source\repos\Lista3Ex8\Lista3Ex8\bin\Debug\Lista3Ex8.pdb
+C:\Users\Juca\source\repos\Lista3Ex8\Lista3Ex8\obj\Debug\Lista3Ex8.csproj.AssemblyReference.cache
+C:\Users\Juca\source\repos\Lista3Ex8\Lista3Ex8\obj\Debug\Lista3Ex8.csproj.CoreCompileInputs.cache
+C:\Users\Juca\source\repos\Lista3Ex8\Lista3Ex8\obj\Debug\Lista3Ex8.exe
+C:\Users\Juca\source\repos\Lista3Ex8\Lista3Ex8\obj\Debug\Lista3Ex8.pdb
